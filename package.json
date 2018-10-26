@@ -3,12 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "konva": "^2.4.2",
+    "node-sass": "^4.9.4",
     "react": "^16.5.2",
+    "react-columns": "^1.2.0",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.5"
+    "react-konva": "^16.5.2",
+    "react-scripts": "2.0.5",
+    "sass-loader": "^7.1.0",
+    "tone": "^0.12.80"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "PORT=6666 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
