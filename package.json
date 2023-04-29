@@ -9,7 +9,7 @@
     "react-columns": "^1.2.0",
     "react-dom": "^16.5.2",
     "react-konva": "^16.5.2",
-    "react-scripts": "2.0.5",
+    "react-scripts": "5.0.1",
     "sass-loader": "^7.1.0",
     "tone": "^0.12.80"
   },
